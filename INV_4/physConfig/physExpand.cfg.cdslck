@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sirott
+HostName                       eeapps03.seas.ucla.edu
+ProcessIdentifier              27067
+ProcessCreationTime_UTC        1457213091
+ProcessCreationTime_Readable   Sat Mar  5 13:24:51 2016 PST
+AppIdentifier                  /w/apps3/Cadence/IC615/tools/dfII/bin/32bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /w/home.01/ee/ugrad/sirott/ee115c/Final_AbsoluteValueDetector/INV_4/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Mar  5 13:57:08 2016 PST
