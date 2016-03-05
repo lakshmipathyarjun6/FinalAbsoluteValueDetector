@@ -1,6 +1,6 @@
 (PropertyFile "1.0"
  (Creator " HDL Direct ver ver-date" )
- (Created " Mar  2 23:12:02 2016 " )
+ (Created " Mar  4 20:38:34 2016 " )
  (Cell  "\\INV_4\\"
   (View  "schematic"
    (Inst "\\NM0\\"
@@ -48,17 +48,17 @@
    (Inst "\\PM0\\"
 	(Pr
 	 ("w" "2.6uM")
-	 ("ps" "3.16uM")
-	 ("pd" "3.16uM")
-	 ("as" "728f")
-	 ("ad" "728f")
-	 ("fw" "2.6uM")
+	 ("fingers" "2")
+	 ("ps" "1.86uM")
+	 ("pd" "320nM")
+	 ("as" "364f")
+	 ("ad" "208f")
+	 ("fw" "1.3uM")
 	 ("instNamePrefix" "PM")
 	 ("XY" "(-0.312500,0.250000)")
 	 ("model" "gpdk090_pmos1v")
 	 ("m" "1")
 	 ("l" "100n")
-	 ("fingers" "1")
 	 ("threshold" "120n")
 	 ("connectGates" "None")
 	 ("dfm" "Minimum")
