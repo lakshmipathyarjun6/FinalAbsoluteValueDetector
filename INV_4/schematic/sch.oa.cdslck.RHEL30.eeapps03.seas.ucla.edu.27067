@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      sirott
+HostName                       eeapps03.seas.ucla.edu
+ProcessIdentifier              27067
+ProcessCreationTime_UTC        1457213107
+ProcessCreationTime_Readable   Sat Mar  5 13:25:07 2016 PST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /w/home.01/ee/ugrad/sirott/ee115c/Final_AbsoluteValueDetector/INV_4/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Mar  5 13:44:14 2016 PST
