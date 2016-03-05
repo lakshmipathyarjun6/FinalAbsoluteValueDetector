@@ -18,8 +18,8 @@ wire net6;
 wire net10;
 wire net3;
 
-Abs_Value_Detector    
- I2  ( .VDD( net15 ), .X3( net6 ), .X1( net4 ), .X0( net3 ), .T2( net11 ), .X4( net7 ), .X2( net5 ), .T3( net12 ), .X5( net8 ), .T4( net13 ), .T1( net10 ), .T0( net9 ), .OUT( net14 ), .GND( \gnd!  ) );
+Abs_Value_Detector_MASTER    
+ I1  ( .VDD( net15 ), .X3( net6 ), .X1( net4 ), .X0( net3 ), .T2( net11 ), .X4( net7 ), .X2( net5 ), .T3( net12 ), .X5( net8 ), .T4( net13 ), .T1( net10 ), .T0( net9 ), .OUT( net14 ), .GND( \gnd!  ) );
 
 vdc    
  V11  ( .PLUS( net13 ), .MINUS( \gnd!  ) );
